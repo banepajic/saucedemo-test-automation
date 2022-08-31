@@ -1,2 +1,2 @@
 # saucedemo-test-automation
-A UI automation testing project of the site: https://www.saucedemo.com/
+An UI automation testing project of the site: https://www.saucedemo.com/
